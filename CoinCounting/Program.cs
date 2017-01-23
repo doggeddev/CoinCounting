@@ -8,6 +8,9 @@ namespace CoinCounting
 {
     class Program
     {
+        //change making 
+
+       
         static int[] coinsAvailble = {25, 10, 5, 1 }; //quarters, dimes, nickels, and pennies.
 
         static void Main(string[] args)
